@@ -41,3 +41,13 @@ All data is persistently saved in **JSON files** for reliability.
 * **`Exercises.json`:** Stores detailed information about exercises and their calorie burn rates.
 * **`User.json`:** Stores user profile data including name, age, weight, and goals.
 * **`Logs.json`:** Keeps a meticulous record of daily user activities.
+
+---
+
+## 📊 Project Presentation
+
+For a detailed overview of the project, including features and architecture, you can view the full presentation slides on Google Drive.
+
+[**View the "Fitness Zone" Presentation Slides**](https://docs.google.com/presentation/d/1O6C8fMgnNHaEUpkYJJdktrcx2y-equWD/edit?) 
+
+
