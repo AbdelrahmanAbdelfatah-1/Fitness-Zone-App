@@ -1,0 +1,66 @@
+{
+    "Cardio": [
+        {
+            "name": "Jumping Jacks",
+            "youtube": "https://www.youtube.com/watch?v=c4DAnQ6DtF8",
+            "description": "full-body cardio",
+            "calories_per_hour": 500
+        },
+        {
+            "name": "Burpees",
+            "youtube": "https://www.youtube.com/watch?v=TU8QYVW0gDU",
+            "description": "High-intensity workout",
+            "calories_per_hour": 600
+        },
+        {
+            "name": "High knees",
+            "youtube": "https://www.youtube.com/shorts/WrKc4YsgAEA?feature=share",
+            "description": "knee lifts",
+            "calories_per_hour": 450
+        },
+        {
+            "name": "Mountain Climbers",
+            "youtube": "https://www.youtube.com/watch?v=nmwgirgXLYM",
+            "description": "core cardio",
+            "calories_per_hour": 550
+        },
+        {
+            "name": "Arm circles",
+            "youtube": "https://www.youtube.com/shorts/qejOqN2IY38?feature=share",
+            "description": "shoulder rotation",
+            "calories_per_hour": 200
+        }
+    ],
+    "Strength": [
+        {
+            "name": "Push Ups",
+            "youtube": "https://www.youtube.com/watch?v=_l3ySVKYVJ8",
+            "description": "chest strength",
+            "calories_per_hour": 300
+        },
+        {
+            "name": "Squats",
+            "youtube": "https://www.youtube.com/watch?v=aclHkVaku9U",
+            "description": "leg workout",
+            "calories_per_hour": 400
+        },
+        {
+            "name": "Plank",
+            "youtube": "https://www.youtube.com/watch?v=pSHjTRCQxIw",
+            "description": "core strength",
+            "calories_per_hour": 250
+        },
+        {
+            "name": "Lunges",
+            "youtube": "https://www.youtube.com/shorts/mJilHWIBWO8?feature=share",
+            "description": "Forward lunge",
+            "calories_per_hour": 350
+        },
+        {
+            "name": "Incline Dumbbell Chest Press",
+            "youtube": "https://www.youtube.com/shorts/8fXfwG4ftaQ?feature=share",
+            "description": "strength exercise that mainly targets the upper chest, while also working the shoulders and triceps",
+            "calories_per_hour": 220
+        }
+    ]
+}

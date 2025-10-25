@@ -1,0 +1,291 @@
+{
+    "abdo@gmail.com": {
+        "2025-10-02": {
+            "daily_calories": 3070.625,
+            "food_log": {
+                "breakfast": [
+                    {
+                        "food": "chicken breast",
+                        "grams": 100,
+                        "calories": 165.0,
+                        "protein": 31.0,
+                        "carbs": 0.0,
+                        "fat": 3.6
+                    },
+                    {
+                        "food": "egg",
+                        "grams": 100,
+                        "calories": 155.0,
+                        "protein": 13.0,
+                        "carbs": 1.1,
+                        "fat": 11.0
+                    }
+                ],
+                "lunch": [
+                    {
+                        "food": "banana",
+                        "grams": 100,
+                        "calories": 89.0,
+                        "protein": 1.1,
+                        "carbs": 23.0,
+                        "fat": 0.3
+                    }
+                ],
+                "dinner": []
+            },
+            "exercise": [
+                {
+                    "name": "Arm circles",
+                    "minutes": 20.0,
+                    "calories": 66.7
+                }
+            ],
+            "water": [
+                2000,
+                500
+            ]
+        },
+        "2025-10-01": {
+            "daily_calories": 2888.75,
+            "food_log": {
+                "breakfast": [
+                    {
+                        "food": "oats",
+                        "grams": 100,
+                        "calories": 389.0,
+                        "protein": 16.9,
+                        "carbs": 66.3,
+                        "fat": 6.9
+                    }
+                ],
+                "lunch": [],
+                "dinner": []
+            },
+            "exercise": [],
+            "water": []
+        },
+        "2025-10-03": {
+            "daily_calories": 3070.625,
+            "food_log": {
+                "breakfast": [],
+                "lunch": [],
+                "dinner": []
+            },
+            "exercise": [],
+            "water": []
+        },
+        "2025-09-30": {
+            "daily_calories": 3070.625,
+            "food_log": {
+                "breakfast": [],
+                "lunch": [],
+                "dinner": []
+            },
+            "exercise": [],
+            "water": []
+        },
+        "2025-09-29": {
+            "daily_calories": 3070.625,
+            "food_log": {
+                "breakfast": [],
+                "lunch": [],
+                "dinner": []
+            },
+            "exercise": [],
+            "water": []
+        },
+        "2025-10-04": {
+            "daily_calories": 3070.625,
+            "food_log": {
+                "breakfast": [],
+                "lunch": [],
+                "dinner": []
+            },
+            "exercise": [],
+            "water": []
+        },
+        "2025-10-05": {
+            "daily_calories": 3070.625,
+            "food_log": {
+                "breakfast": [],
+                "lunch": [],
+                "dinner": []
+            },
+            "exercise": [],
+            "water": []
+        },
+        "2025-10-06": {
+            "daily_calories": 3070.625,
+            "food_log": {
+                "breakfast": [],
+                "lunch": [],
+                "dinner": []
+            },
+            "exercise": [],
+            "water": []
+        },
+        "2025-10-07": {
+            "daily_calories": 3070.625,
+            "food_log": {
+                "breakfast": [],
+                "lunch": [],
+                "dinner": []
+            },
+            "exercise": [],
+            "water": []
+        }
+    },
+    "ali@gmail.com": {
+        "2025-10-02": {
+            "daily_calories": 3243.125,
+            "food_log": {
+                "breakfast": [
+                    {
+                        "food": "rice",
+                        "grams": 100,
+                        "calories": 130.0,
+                        "protein": 2.7,
+                        "carbs": 28.0,
+                        "fat": 0.3
+                    }
+                ],
+                "lunch": [
+                    {
+                        "food": "egg white",
+                        "grams": 100,
+                        "calories": 52.0,
+                        "protein": 11.0,
+                        "carbs": 0.7,
+                        "fat": 0.2
+                    }
+                ],
+                "dinner": []
+            },
+            "exercise": [],
+            "water": []
+        },
+        "2025-10-01": {
+            "daily_calories": 2733.75,
+            "food_log": {
+                "breakfast": [
+                    {
+                        "food": "rice",
+                        "grams": 250,
+                        "calories": 325.0,
+                        "protein": 6.75,
+                        "carbs": 70.0,
+                        "fat": 0.75
+                    },
+                    {
+                        "food": "egg",
+                        "grams": 100,
+                        "calories": 155.0,
+                        "protein": 13.0,
+                        "carbs": 1.1,
+                        "fat": 11.0
+                    }
+                ],
+                "lunch": [
+                    {
+                        "food": "rice",
+                        "grams": 100,
+                        "calories": 130.0,
+                        "protein": 2.7,
+                        "carbs": 28.0,
+                        "fat": 0.3
+                    }
+                ],
+                "dinner": []
+            },
+            "exercise": [
+                {
+                    "name": "Plank",
+                    "minutes": 20.0,
+                    "calories": 83.3
+                }
+            ],
+            "water": [
+                200,
+                500
+            ]
+        },
+        "2025-09-30": {
+            "daily_calories": 2733.75,
+            "food_log": {
+                "breakfast": [
+                    {
+                        "food": "rice",
+                        "grams": 100,
+                        "calories": 130.0,
+                        "protein": 2.7,
+                        "carbs": 28.0,
+                        "fat": 0.3
+                    }
+                ],
+                "lunch": [],
+                "dinner": []
+            },
+            "exercise": [],
+            "water": []
+        },
+        "2025-10-03": {
+            "daily_calories": 3243.125,
+            "food_log": {
+                "breakfast": [],
+                "lunch": [],
+                "dinner": []
+            },
+            "exercise": [],
+            "water": []
+        }
+    },
+    "alaa@gmail.com": {
+        "2025-10-03": {
+            "daily_calories": 2820.625,
+            "food_log": {
+                "breakfast": [
+                    {
+                        "food": "shrimp",
+                        "grams": 1000,
+                        "calories": 990.0,
+                        "protein": 240.0,
+                        "carbs": 2.0,
+                        "fat": 3.0
+                    }
+                ],
+                "lunch": [],
+                "dinner": []
+            },
+            "exercise": [
+                {
+                    "name": "Jumping Jacks",
+                    "minutes": 20.0,
+                    "calories": 166.7
+                }
+            ],
+            "water": [
+                200
+            ]
+        },
+        "2025-10-02": {
+            "daily_calories": 2820.625,
+            "food_log": {
+                "breakfast": [],
+                "lunch": [],
+                "dinner": []
+            },
+            "exercise": [],
+            "water": []
+        },
+        "2025-10-04": {
+            "daily_calories": 2820.625,
+            "food_log": {
+                "breakfast": [],
+                "lunch": [],
+                "dinner": []
+            },
+            "exercise": [],
+            "water": []
+        }
+    }
+}
